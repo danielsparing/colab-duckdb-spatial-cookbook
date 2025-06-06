@@ -8,5 +8,5 @@ The [Spatial Extension](https://duckdb.org/docs/stable/core_extensions/spatial/o
 
 GDAL is one of those things. There are 3 ways covered here to install GDAL:
 - GDAL option 1: Don't install GDAL! Use the GDAL that already ships with DuckDB. [gdal_with_duckdb.ipynb](gdal_with_duckdb.ipynb)
-- GDAL option 2: Install with `apt-get`, this will give you most functionality but as of June 2025 you won't get Arrow or Parquet support.
+- GDAL option 2: Install with `apt-get`, this will give you most functionality but as of June 2025 you won't get Arrow or Parquet support. [install_gdal.ipynb](install_gdal.ipynb)
 - GDAL option 3: If you do need arrow and parquet, then install via `conda`, e.g. by using `miniforge`.
