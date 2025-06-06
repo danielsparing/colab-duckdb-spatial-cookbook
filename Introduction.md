@@ -10,7 +10,7 @@ TLDR: [Google Colab](https://colab.research.google.com/) is (kind of) a standard
 Let's get this out of the way; first of all, Colab is free (as in beer).
 
 
-### Python Environment
+### It's a standardized Python (and Linux) Environment
 
 While theoretically you _might_ have a Python installation (or many) already on your own comnputer, version management can be a pain.
 
@@ -18,7 +18,7 @@ You would need to (and you should) learn about virtualenv's (if you're on macOS,
 
 But here is the thing: assume you possess or just aquired the above knowlege. How about sharing your work with someone else? You'd now need to take your friend(s) on the above journey first before they end up with the same environment -- and this is assuming they are also on the same OS. And as much fun as virtualenvs might be for you, it is less fun for your friend to listen to you lecturing them about it. On the other hand, If your code works in a fresh Colab compute, so should it for your friend. Within reason, see next paragraph:
 
-Are there limits to this argument? Surely. Google can decide any moment (and probably many times a month does decide) that certain libraries are removed, added, updated, or the whole offering is [closed down](https://killedbygoogle.com/). Don't rely on it for long-term, critical work. But for short-term learning and experimentation? It is great.
+Are there limits to this argument? Surely. Google can decide any moment (and probably many times a month does decide) that certain libraries are removed, added, updated (to mitigate this, it can be good practice to capture the output of `pip freeze`), or the whole offering is [closed down](https://killedbygoogle.com/). Don't rely on it for long-term, critical work. But for short-term learning and experimentation? It is great.
 
 ### Availability
 
