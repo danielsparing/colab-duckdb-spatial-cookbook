@@ -1,1 +1,1 @@
-# colab-duckdb-spatial-cookbook
+# Colab geospatial cookbook with DuckDB
