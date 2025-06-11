@@ -1,6 +1,6 @@
 # Setting up your environment
 
-![Supasit Chantranon via Unsplash](https://images.unsplash.com/photo-1580745168634-33c78f4c4177?q=80&w=960&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![Supasit Chantranon via Unsplash](https://images.unsplash.com/photo-1580745168634-33c78f4c4177)
 
 Colab actually comes with surprisingly many handy scientific computing and geospatial tools pre-installed, such as `numpy`/`pandas`, `geoopandas` or `duckdb`. Sometimes you just need a bit more.
 
