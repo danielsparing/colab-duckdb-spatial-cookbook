@@ -6,7 +6,7 @@
 
 Or if you prefer to [cut to the chase](https://www.youtube.com/watch?v=gZbwbxMKb_c&t=51s):
 
-- [Setting up your environment](./Enviroment.md) (e.g. GDAL)
+- [Setting up your environment](./Environment.md) (e.g. GDAL)
 - **Data Ingestion**
     - don't ingest data. you have a temporary, small environment anyway. Read [cloud-native geo formats](https://github.com/cloudnativegeo/cloud-optimized-geospatial-formats-guide) on demand.
 - **Data Visualization**
