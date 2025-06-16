@@ -1,5 +1,3 @@
-<a href="https://colab.research.google.com/github/danielsparing/colab-duckdb-spatial-cookbook/blob/main/notebooks/install_gdal_conda.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
 # Install GDAL command line tools in Colab with Parquet support
 
 If we need Parquet support for e.g. [ogr2ogr](https://gdal.org/en/stable/programs/ogr2ogr.html) or other command-line GDAL tool, we can install the required packages via `conda`. Or to be more precise, via `conda-forge` and `miniforge`.
