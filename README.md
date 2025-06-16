@@ -10,6 +10,7 @@ Or if you prefer to [cut to the chase](https://www.youtube.com/watch?v=gZbwbxMKb
 - **Data Ingestion**
     - don't ingest data. you have a temporary, small environment anyway. Read [cloud-native geo formats](https://github.com/cloudnativegeo/cloud-optimized-geospatial-formats-guide) on demand.
 - **Data Visualization**
+   - [Visualize a DuckDB query](notebooks/viz_duckdb.ipynb)
    - [Visualize a GeoJSON](notebooks/viz_geojson.ipynb)
    - [Visualize a GeoPandas GeoDataFrame](notebooks/viz_gpd.ipynb)
 - **Miscellanious**:
