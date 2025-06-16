@@ -11,3 +11,6 @@ Or if you prefer to [cut to the chase](https://www.youtube.com/watch?v=gZbwbxMKb
 - Data Visualization
 - Working with OSM (incl. st_readosm)
 - Map Matching with GraphHopper
+
+- Netherlands-specific:
+   - [Process the Dutch buildings dataset (BAG)](notebooks/bag.ipynb)
