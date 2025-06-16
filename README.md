@@ -9,8 +9,8 @@ Or if you prefer to [cut to the chase](https://www.youtube.com/watch?v=gZbwbxMKb
 - [Setting up your environment](./Enviroment.md) (e.g. GDAL)
 - Data Ingestion
 - Data Visualization
-   - Visualize a GeoJSON
-   - Visualize a GeoPandas GeoDataFrame
+   - [Visualize a GeoJSON](notebooks/viz_geojson.ipynb)
+   - [Visualize a GeoPandas GeoDataFrame](notebooks/viz_gpd.ipynb)
 - Working with OSM (incl. st_readosm)
 - Map Matching with GraphHopper
 
