@@ -36,8 +36,3 @@ And that's it:
 # Returns:
 #   Parquet -vector- (rw+v): (Geo)Parquet (*.parquet)
 ```
-
-
-```python
-
-```
