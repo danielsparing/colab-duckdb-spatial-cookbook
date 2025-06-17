@@ -26,7 +26,7 @@ All you need is a browser: you could even run Colab from an iPad, more or less. 
 
 ## Why DuckDB
 
-[DuckDB](https://duckdb.org/) is a formidable new single-machine analytics tool, tracing its origins to the same Dutch research institute as Python. Crucially for this guide, it comes with a remarkably good Spatial extension (and comes pre-installed on Colab).
+[DuckDB](https://duckdb.org/) is a formidable new single-machine analytics tool, tracing its origins to the same Dutch research institute as Python. Crucially for this guide, it comes with a remarkably good [Spatial extension](https://duckdb.org/docs/stable/core_extensions/spatial/overview.html) (and comes pre-installed on Colab).
 
 ## In/Out of Scope
 
