@@ -1,6 +1,6 @@
 # Colab geospatial cookbook with DuckDB
 
-![Timo Volz via Unsplash](https://images.unsplash.com/photo-1597760078652-6359f83febaf)
+![Timo Volz via Unsplash](https://images.unsplash.com/photo-1749539387026-cee8b2d44875?w=640)
 
 - [Introduction](./Introduction.md)
 
